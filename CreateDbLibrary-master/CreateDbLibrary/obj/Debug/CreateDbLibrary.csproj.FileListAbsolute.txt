@@ -1,0 +1,7 @@
+C:\Users\Ильяс Сабитов\source\CreateDbLibrary\CreateDbLibrary\bin\Debug\CreateDbLibrary.exe.config
+C:\Users\Ильяс Сабитов\source\CreateDbLibrary\CreateDbLibrary\bin\Debug\CreateDbLibrary.exe
+C:\Users\Ильяс Сабитов\source\CreateDbLibrary\CreateDbLibrary\bin\Debug\CreateDbLibrary.pdb
+C:\Users\Ильяс Сабитов\source\CreateDbLibrary\CreateDbLibrary\obj\Debug\CreateDbLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\CreateDbLibrary\CreateDbLibrary\obj\Debug\CreateDbLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\CreateDbLibrary\CreateDbLibrary\obj\Debug\CreateDbLibrary.exe
+C:\Users\Ильяс Сабитов\source\CreateDbLibrary\CreateDbLibrary\obj\Debug\CreateDbLibrary.pdb
